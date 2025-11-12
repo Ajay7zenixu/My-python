@@ -1,4 +1,4 @@
-Write a function factorial()that finds the factorial of a given number using a loop.
+#Write a function factorial()that finds the factorial of a given number using a loop.
 def factorial(n):
     fact = 1
     for i in range(1, n+1):
